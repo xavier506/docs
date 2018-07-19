@@ -1,0 +1,13 @@
+{
+  "name": "docs.eoscostarica.io",
+  "version": "1.0.0",
+  "description": "EOS Costa Rica documentation site",
+  "main": "index.js",
+  "repository": "git@github.com:eoscostarica/docs.git",
+  "author": "eoscostarica.io",
+  "license": "MIT",
+  "scripts": {
+    "start": "hugo server",
+    "deploy": "scripts/deploy.sh"
+  }
+}
