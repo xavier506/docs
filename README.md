@@ -29,9 +29,9 @@ Source code of the official EOS documentation site by EOS Costa Rica.
 
 # Local Setup
 
-Node https://gaboesquivel.com/blog/2015/automatic-node.js-version-switching/
-Hugo https://gohugo.io/getting-started/installing
-Yarn https://yarnpkg.com/lang/en/docs/install/
+- Node https://gaboesquivel.com/blog/2015/automatic-node.js-version-switching/
+- Hugo https://gohugo.io/getting-started/installing
+- Yarn https://yarnpkg.com/lang/en/docs/install/
 
 ```
 brew install hugo
