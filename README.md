@@ -78,8 +78,6 @@ We follow a continuous integration process based on Github flow that leverages t
 
 - [TravisCI](https://travis-ci.org/) to run test and code style checks.
 
-https://www.metachris.com/2017/04/continuous-deployment-hugo---travis-ci--github-pages/
-
 ## Maintainers
 
 - [@gaboesquivel](https://github.com/gaboesquivel).
