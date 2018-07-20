@@ -3,35 +3,6 @@ title: Open Source Contributing Guidelines
 weight: 20
 ---
 
-## Contents
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [Development Process](#development-process)
-- [Pull Request General Guidelines](#pull-request-general-guidelines)
-- [Commit Message Guidelines](#commit-message-guidelines)
-  - [Commit Message Format](#commit-message-format)
-  - [Revert](#revert)
-  - [Type](#type)
-  - [Scope](#scope)
-  - [Subject](#subject)
-  - [Body](#body)
-  - [Footer](#footer)
-- [Reporting bugs](#reporting-bugs)
-- [Releases](#releases)
-    - [Breaking.Feature.Fix](#breakingfeaturefix)
-      - [Breaking](#breaking)
-      - [Feature](#feature)
-      - [Fix](#fix)
-  - [Changelog Generation](#changelog-generation)
-- [Advanced Git tools](#advanced-git-tools)
-- [Code Standards](#code-standards)
-- [Continuous Integration and Delivery](#continuous-integration-and-delivery)
-- [Pre-commit Hooks](#pre-commit-hooks)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Development Process
 
 We use a Kanban-style board to prioritize the work. For example the [dmeetup project board](https://github.com/eoscostarica/dmeetup/projects/1).
