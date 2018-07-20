@@ -60,7 +60,6 @@ Please report bugs big and small by [opening an issue](https://github.com/eoscos
 ├── content/ ........................................... contents in markdown
 ├── data/ .............................................. hugo project data config files
 ├── layouts/ ........................................... hugo project layout templates ( overrides the theme )
-├── scripts/ ........................................... automation scripts
 ├── static/ ............................................ static files used by hugo
 ├── public/ ............................................ generated site files
 ├── CONTRIBUTING.md .................................... contributing guidelines
@@ -78,6 +77,8 @@ more https://gohugo.io/getting-started/directory-structure/
 We follow a continuous integration process based on Github flow that leverages the following tools:
 
 - [TravisCI](https://travis-ci.org/) to run test and code style checks.
+
+https://www.metachris.com/2017/04/continuous-deployment-hugo---travis-ci--github-pages/
 
 ## Maintainers
 
